@@ -8,8 +8,11 @@
 To replace a script:
 1) Rename the NOT working script adding "notworking" to the file name. Send it to Elisa
 2) Download from here the working copy of the script
+- Right click, "Download Linked File as.."
+<img width="582" alt="Screenshot 2022-09-28 at 10 15 13" src="https://user-images.githubusercontent.com/56177749/192726406-dc1de562-d00c-4d10-bb76-ae04b37c619b.png">
+- Save making sure the extension is ".m"
+<img width="379" alt="Screenshot 2022-09-28 at 10 15 28" src="https://user-images.githubusercontent.com/56177749/192726436-7b913fdb-2c6e-405b-9ccb-490427e737ab.png">
 
-<img width="531" alt="Screenshot 2022-09-28 at 10 07 38" src="https://user-images.githubusercontent.com/56177749/192724617-04109668-0a80-4876-a951-15a2d156754b.png">
 
 3) Place it in the script folder 
 4) Re run 
